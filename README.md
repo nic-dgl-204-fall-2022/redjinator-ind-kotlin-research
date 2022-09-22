@@ -24,14 +24,16 @@ After reading each article I decided Kotlin for Data Science was my favorite tha
 
 4. [YouTube: Kotlin Tutorial by Navin Reddy](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh): The course is broken up into almost 50 videos with narrow topics so it’s easy to hone in on a concept that you want to look at. I find this useful for when I am having difficulty sitting and reading text on the computer screens for long periods of time.
 
-5. 
+5. [Codewars](https://www.codewars.com):Having a place to be given problems to solve without having to build an app allows practicing to be very focused. Being able to change the difficulty allows you to control how you practice. You can re-enforce fundamentals, practice at your level, or really challenge yourself with a difficult problem. I feel this used in the right way could be extremely valuable.
 
-## \[Related GitHub Repo\]
-### \[Title of repo\]
-### \[Author of repo\]
-### \[Link to repo\]
+6. [JetBrains Academy Kotlin tracks](https://hyperskill.org/tracks?_ga=2.119806287.631111152.1663345160-1923204048.1663345160&_gl=1%2ag7jp6f%2a_ga%2aMTkyMzIwNDA0OC4xNjYzMzQ1MTYw%2a_ga_9J976DJZ68%2aMTY2MzQ3NTIwNS43LjAuMTY2MzQ3NTIwNS4wLjAuMA..&category=4): This one I haven’t explored much yet, but after searching a little online I found a decent amount of positive sentiment towards the tracks/courses. I figured I would mention it since it seems to be considered a valuable resource. 
 
-\[Write a brief description on the purpose of the repo\]
+## GitHub Repo Related to Kotlin for Data Science
+### kotlin-ta - Kotlin Technical Analysis library
+### Paulo Schlup
+### https://github.com/pschlup/kotlin-ta
+
+kotlin-ta is a technical analysis and back testing library for testing trading strategies and indicators which use chart data saved in CSV files for calculations and can handle multiple candle chart timeframes simultaneously. All the basic functions from an currency exchange are available which allows the user to focus on testing their strategies and indicators.
 
 **Note:** All your work should be *in your own words*. If you quote anyone, or if you use any resources other than the Kotlin Overview docs you should say so and provide a link in a **Bibliography**.
 
