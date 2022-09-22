@@ -1,5 +1,4 @@
 # Independent Kotlin overview research - part 1
-Fill out this template as per the directions on our [course site](https://ash-teach.github.io/dgl-204/#/dgl204-2022fa/week-01#assignments)
 
 ## Kotlin for Data Science
 After reading each article I decided Kotlin for Data Science was my favorite that I would like to explore further. Using Kotlin for Data Science is a great choice because Kotlin is easy to learn, locks in variable types, does not allow variable nulls by default unless specified during declaration which in turn makes code less prone to errors and easier to debug. Kotlin has the same advantages of Java for performance since it is also run on the Java Virtual Machine, and can also use pre-existing Java libraries that offer greater trust and stability through maturity.
@@ -34,8 +33,6 @@ After reading each article I decided Kotlin for Data Science was my favorite tha
 ### https://github.com/pschlup/kotlin-ta
 
 kotlin-ta is a technical analysis and back testing library for testing trading strategies and indicators which use chart data saved in CSV files for calculations and can handle multiple candle chart timeframes simultaneously. All the basic functions from an currency exchange are available which allows the user to focus on testing their strategies and indicators.
-
-**Note:** All your work should be *in your own words*. If you quote anyone, or if you use any resources other than the Kotlin Overview docs you should say so and provide a link in a **Bibliography**.
 
 ## Reflection
 I have made multiple attempts previously to write a program in python for back testing and technical analysis, each with limited success before coming to a roadblock and deciding to start overusing a different approach or trying out a design pattern. This was slightly due to poor commit management, but more so because I already understand how trading exchanges work and all the functions they provide, so I know what to expect from my app when I’m building it. So, rebuilding allowed me to explore programming in a fun way. 
