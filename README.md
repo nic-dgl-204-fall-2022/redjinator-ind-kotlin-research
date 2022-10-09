@@ -149,3 +149,12 @@ This is a relatively simple indicator function that takes in a length of time (o
 ```
 fun foo(a: Int = 0, b: String = "") { ... }
 ```
+
+# Reflection
+Looking at the various conventions and idioms was my biggest take away from the Kotlin Overview and it seems obvious that it's something I should be leaving open beside me when I code however I've spent a lot of time thinking about the structure of code that I've written in the past as I have a tendency of trying to do everything from scratch when I don't have to.
+
+I had fun analyzing the Kotlin-ta repo and comparing it against my own "Market Simulator" which is a complete mess right now due to my lazy use of version control in a repo that started as a bit of a sandbox. But it brings to light a few important things I need to consider more and thats the tools I need to work faster and actually using those tools when appropriote like Coding conventions and idioms which I also mentioned was my biggest take away from this assignment. 
+
+Now concerning me writing code from scratch when it wasn't necessary as I mentioned above in my summary, I don't think that was a waste of time but I do think it's time for me to break that habit and transition into a work flow that focuses on paying attention to more effective work flows polished by my predecessors. Though I admit I'm finding it difficult to break bad habits i've formed coding before pursing a formal education in this program.
+
+I'm trying to find ways to reinforce my learning and make it more effective given there is so much to learn and I haven't gotten an efficient workflow down yet but more and more it seems to be one of my biggest flaws. I didn't go too much into detail around the conventions and idioms used in the Kotlin-ta repo but I did check more than I mentioned and I found that they put a positive effort into conforming to accepted conventions and idioms. I like the structure that it brings, and I can see it bringing confidence to the code and being able to justify it's use.
